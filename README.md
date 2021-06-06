@@ -1,0 +1,2 @@
+# LdR
+Línia de Reconstitución
